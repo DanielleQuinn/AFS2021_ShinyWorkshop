@@ -1,0 +1,1 @@
+Welcome to this {shiny} application! To begin, please define a date range and choose a region from the options below. Then, select any number of available species from the drop down menu. Use the figures, values, tables, and map to explore the data. When you’re ready, click on the buttons at the bottom of this panel to download the data or the current figure.
