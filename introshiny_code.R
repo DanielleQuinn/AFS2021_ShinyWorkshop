@@ -100,3 +100,62 @@ server <- function(input, output) {
 shinyApp(ui, server)
 
 # Exercise 4 ----
+
+# 10 ----
+ui <- fluidPage(textOutput("x"))
+
+server <- function(input, output) {
+  
+  df <- reactive({"Hello"})
+  
+  output$x <- renderText({df()})
+}
+
+shinyApp(ui, server)
+
+# 11 ----
+library(shinydashboard)
+data <- c(5, 8, 3, 1, 10)
+
+ui <- fluidPage(valueBoxOutput("valuebox1"))
+
+server <- function(input, output) {
+  
+  data_min <- reactive({min(data)})
+  
+  output$valuebox1 <- renderValueBox({valueBox(data_min(), "Minumum")})
+  
+}
+
+shinyApp(ui, server)
+
+# 12 ----
+library(dplyr)
+
+data <- data.frame(group = c("A", "A", "B", "B"),
+                   measure = c(4, 3, 7, 1))
+
+ui <- fluidPage(valueBoxOutput("valuebox1"))
+
+server <- function(input, output) {
+  
+  data_groupB <- reactive({data %>% filter(group == "B")})
+  
+  output$valuebox1 <- renderValueBox({
+    valueBox(sum(data_groupB()$measure), "Total B")
+  })
+  
+}
+
+shinyApp(ui, server)
+
+# 13 ----
+ui <- fluidPage(
+  plotOutput(outputId = "myplot", brush = "pts")
+)
+
+server <- function(input, output) {
+  output$myplot <- renderPlot({plot(1:10, 1:10)})
+}
+
+shinyApp(ui, server)
