@@ -1,0 +1,55 @@
+"Site"	"Latitude"	"Longitude"
+"Airacobra Rock"	51.758333	-128.222222
+"Anthony Island"	52.1033333	-131.24
+"Ashby Point"	50.94216667	-127.9206667
+"Ashdown Island"	53.04916667	-129.211667
+"Barrier Islands"	50.011667	-127.526667
+"Beresford Island"	50.792	-128.7696667
+"Blenheim"	51.80781667	-128.2533
+"Bonilla Island"	53.46616667	-130.6128333
+"Bright Island"	50.94116667	-127.6573333
+"Cape Scott"	50.785	-128.4198333
+"Cape St. James Island"	51.91166667	-130.981667
+"Carmanah Point"	48.61533333	-124.7613333
+"Chearnley Islet"	54.44132	-130.9865
+"Cone Head"	53.37616667	-132.721667
+"Eden Island"	50.74633333	-126.722
+"Garcin Rocks"	52.21323333	-130.9606
+"Goodacre Point"	52.943333	-129.553333
+"Gosling Rocks"	51.86833	-128.4598333
+"Isnor Rock"	52.73583333	-129.5301667
+"Joseph Island"	53.145	-130.04245
+"Joseph Rocks"	53.81333333	-133.1333333
+"Joyce Rocks"	52.33695	-131.1316333
+"Langara Island"	54.2605	-133.0146667
+"Long Beach"	49.03883333	-125.7188333
+"MacDonald Island"	52.98	-129.695
+"Maggot Island"	50.80183	-128.7793333
+"Mara Rock"	48.875	-125.4788333
+"Marble Island"	53.20466667	-132.6518333
+"McInnes Island"	52.2625	-128.7208333
+"Millar Group"	50.90966667	-127.441667
+"Moresby Islets"	52.97333	-132.36
+"North Chads Point"	52.8183	-132.24
+"North Danger Rocks"	53.25566667	-130.3416667
+"O'Leary Islets"	50.101667	-127.646667
+"Pachena Point"	48.723333	-125.105
+"Pearl Rocks"	51.3633333	-128.001667
+"Perez Rocks"	49.40333333	-126.58333
+"Plover Reefs"	49.169167	-126.083611
+"Raphael Point"	49.308333	-126.22833
+"Reef Island"	52.87166667	-131.485
+"Rose Spit"	54.21233333	-131.6131667
+"Sartine Island"	50.81983333	-128.903
+"Skedans Islands"	52.953	-131.5526333
+"Solander Island"	50.111667	-127.9398333
+"South Nangwaii Islands"	54.408333	-131.605
+"South Tasu Head"	52.70283333	-132.075
+"Starlight Reef"	48.8816	-125.485
+"Steele Rock"	52.46333333	-129.371667
+"Tatsung Rock"	52.5433	-131.3566
+"Triangle Island"	50.87133333	-129.0773333
+"Virgin Rocks"	51.28016667	-128.203
+"Warrior Rocks"	54.06466667	-130.852
+"Watch Rock"	51.38	-128.106667
+"Wouwer Island"	48.86283333	-125.3583

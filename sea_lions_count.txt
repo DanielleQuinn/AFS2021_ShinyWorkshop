@@ -1,0 +1,573 @@
+"Region"	"Site"	"Year"	"Adults"	"Pups"
+"West Coast Vancouver Island"	"Long Beach"	1971	394	NA
+"West Coast Vancouver Island"	"Long Beach"	1972	265	NA
+"West Coast Vancouver Island"	"Long Beach"	1977	10	NA
+"West Coast Vancouver Island"	"Long Beach"	1982	262	NA
+"West Coast Vancouver Island"	"Long Beach"	1987	231	NA
+"West Coast Vancouver Island"	"Long Beach"	1992	344	NA
+"West Coast Vancouver Island"	"Long Beach"	1994	298	NA
+"West Coast Vancouver Island"	"Long Beach"	1998	535	NA
+"West Coast Vancouver Island"	"Long Beach"	2002	714	NA
+"West Coast Vancouver Island"	"Long Beach"	2006	388	NA
+"West Coast Vancouver Island"	"Long Beach"	2008	295	NA
+"West Coast Vancouver Island"	"Long Beach"	2010	367	NA
+"West Coast Vancouver Island"	"Long Beach"	2013	447	NA
+"West Coast Vancouver Island"	"Plover Reefs"	1971	0	NA
+"West Coast Vancouver Island"	"Plover Reefs"	1972	0	NA
+"West Coast Vancouver Island"	"Plover Reefs"	1977	0	NA
+"West Coast Vancouver Island"	"Plover Reefs"	1982	0	NA
+"West Coast Vancouver Island"	"Plover Reefs"	1987	0	NA
+"West Coast Vancouver Island"	"Plover Reefs"	1992	0	NA
+"West Coast Vancouver Island"	"Plover Reefs"	1994	0	NA
+"West Coast Vancouver Island"	"Plover Reefs"	1998	0	NA
+"West Coast Vancouver Island"	"Plover Reefs"	2002	0	NA
+"West Coast Vancouver Island"	"Plover Reefs"	2006	0	NA
+"West Coast Vancouver Island"	"Plover Reefs"	2008	10	NA
+"West Coast Vancouver Island"	"Plover Reefs"	2010	0	NA
+"West Coast Vancouver Island"	"Plover Reefs"	2013	154	NA
+"West Coast Vancouver Island"	"Raphael Point"	1971	0	NA
+"West Coast Vancouver Island"	"Raphael Point"	1972	0	NA
+"West Coast Vancouver Island"	"Raphael Point"	1977	0	NA
+"West Coast Vancouver Island"	"Raphael Point"	1982	0	NA
+"West Coast Vancouver Island"	"Raphael Point"	1987	0	NA
+"West Coast Vancouver Island"	"Raphael Point"	1992	0	NA
+"West Coast Vancouver Island"	"Raphael Point"	1994	58	NA
+"West Coast Vancouver Island"	"Raphael Point"	1998	0	NA
+"West Coast Vancouver Island"	"Raphael Point"	2002	0	NA
+"West Coast Vancouver Island"	"Raphael Point"	2006	0	NA
+"West Coast Vancouver Island"	"Raphael Point"	2008	0	NA
+"West Coast Vancouver Island"	"Raphael Point"	2010	0	NA
+"West Coast Vancouver Island"	"Raphael Point"	2013	0	NA
+"West Coast Vancouver Island"	"Perez Rocks"	2006	353	NA
+"West Coast Vancouver Island"	"Perez Rocks"	2008	466	NA
+"West Coast Vancouver Island"	"Perez Rocks"	2010	321	NA
+"West Coast Vancouver Island"	"Perez Rocks"	2013	320	NA
+"West Coast Vancouver Island"	"Perez Rocks"	1971	0	NA
+"West Coast Vancouver Island"	"Perez Rocks"	1972	0	NA
+"West Coast Vancouver Island"	"Perez Rocks"	1977	0	NA
+"West Coast Vancouver Island"	"Perez Rocks"	1982	0	NA
+"West Coast Vancouver Island"	"Perez Rocks"	1987	0	NA
+"West Coast Vancouver Island"	"Perez Rocks"	1992	0	NA
+"West Coast Vancouver Island"	"Perez Rocks"	1994	0	NA
+"West Coast Vancouver Island"	"Perez Rocks"	1998	0	NA
+"West Coast Vancouver Island"	"Perez Rocks"	2002	0	NA
+"West Coast Vancouver Island"	"Perez Rocks"	2006	16	NA
+"West Coast Vancouver Island"	"Perez Rocks"	2008	2	NA
+"West Coast Vancouver Island"	"Perez Rocks"	2010	0	NA
+"West Coast Vancouver Island"	"Perez Rocks"	2013	2	NA
+"West Coast Vancouver Island"	"Barrier Islands"	1977	105	NA
+"West Coast Vancouver Island"	"Barrier Islands"	1982	153	NA
+"West Coast Vancouver Island"	"Barrier Islands"	1987	149	NA
+"West Coast Vancouver Island"	"Barrier Islands"	1992	274	NA
+"West Coast Vancouver Island"	"Barrier Islands"	1994	290	NA
+"West Coast Vancouver Island"	"Barrier Islands"	1998	843	NA
+"West Coast Vancouver Island"	"Barrier Islands"	2002	585	NA
+"West Coast Vancouver Island"	"Barrier Islands"	2006	542	NA
+"West Coast Vancouver Island"	"Barrier Islands"	2008	1051	NA
+"West Coast Vancouver Island"	"Barrier Islands"	2010	1284	NA
+"West Coast Vancouver Island"	"Barrier Islands"	2013	1049	NA
+"West Coast Vancouver Island"	"O'Leary Islets"	1971	331	NA
+"West Coast Vancouver Island"	"O'Leary Islets"	1977	200	NA
+"West Coast Vancouver Island"	"O'Leary Islets"	1982	85	NA
+"West Coast Vancouver Island"	"O'Leary Islets"	1987	60	NA
+"West Coast Vancouver Island"	"O'Leary Islets"	1992	81	NA
+"West Coast Vancouver Island"	"O'Leary Islets"	1994	14	NA
+"West Coast Vancouver Island"	"O'Leary Islets"	1998	74	NA
+"West Coast Vancouver Island"	"O'Leary Islets"	2002	2	NA
+"West Coast Vancouver Island"	"O'Leary Islets"	2006	141	NA
+"West Coast Vancouver Island"	"O'Leary Islets"	2008	0	NA
+"West Coast Vancouver Island"	"O'Leary Islets"	2010	0	NA
+"West Coast Vancouver Island"	"O'Leary Islets"	2013	0	NA
+"West Coast Vancouver Island"	"Solander Island"	1971	0	NA
+"West Coast Vancouver Island"	"Solander Island"	1972	3	NA
+"West Coast Vancouver Island"	"Solander Island"	1977	1	NA
+"West Coast Vancouver Island"	"Solander Island"	1982	0	NA
+"West Coast Vancouver Island"	"Solander Island"	1987	0	NA
+"West Coast Vancouver Island"	"Solander Island"	1992	51	NA
+"West Coast Vancouver Island"	"Solander Island"	1994	419	NA
+"West Coast Vancouver Island"	"Solander Island"	1998	179	NA
+"West Coast Vancouver Island"	"Solander Island"	2002	187	NA
+"West Coast Vancouver Island"	"Solander Island"	2006	876	NA
+"West Coast Vancouver Island"	"Solander Island"	2008	320	NA
+"West Coast Vancouver Island"	"Solander Island"	2010	632	NA
+"West Coast Vancouver Island"	"Solander Island"	2013	285	NA
+"West Coast Vancouver Island"	"Cape Scott"	1971	0	NA
+"West Coast Vancouver Island"	"Cape Scott"	1977	1	NA
+"West Coast Vancouver Island"	"Cape Scott"	1982	0	NA
+"West Coast Vancouver Island"	"Cape Scott"	1987	1	NA
+"West Coast Vancouver Island"	"Cape Scott"	1992	42	NA
+"West Coast Vancouver Island"	"Cape Scott"	1994	68	NA
+"West Coast Vancouver Island"	"Cape Scott"	1998	0	NA
+"West Coast Vancouver Island"	"Cape Scott"	2002	0	NA
+"West Coast Vancouver Island"	"Cape Scott"	2006	0	NA
+"West Coast Vancouver Island"	"Cape Scott"	2008	0	NA
+"West Coast Vancouver Island"	"Cape Scott"	2010	0	NA
+"West Coast Vancouver Island"	"Cape Scott"	2013	0	NA
+"Scott Islands"	"Beresford Island"	1971	71	NA
+"Scott Islands"	"Beresford Island"	1972	6	NA
+"Scott Islands"	"Beresford Island"	1977	24	NA
+"Scott Islands"	"Beresford Island"	1982	100	NA
+"Scott Islands"	"Beresford Island"	1987	124	NA
+"Scott Islands"	"Beresford Island"	1992	164	NA
+"Scott Islands"	"Beresford Island"	1994	119	NA
+"Scott Islands"	"Beresford Island"	1998	5	NA
+"Scott Islands"	"Beresford Island"	2002	147	NA
+"Scott Islands"	"Beresford Island"	2006	13	NA
+"Scott Islands"	"Beresford Island"	2008	397	NA
+"Scott Islands"	"Beresford Island"	2010	153	NA
+"Scott Islands"	"Beresford Island"	2013	222	NA
+"Scott Islands"	"Maggot Island"	1971	418	174
+"Scott Islands"	"Maggot Island"	1972	416	188
+"Scott Islands"	"Maggot Island"	1977	627	147
+"Scott Islands"	"Maggot Island"	1982	442	171
+"Scott Islands"	"Maggot Island"	1987	550	180
+"Scott Islands"	"Maggot Island"	1992	511	107
+"Scott Islands"	"Maggot Island"	1994	371	76
+"Scott Islands"	"Maggot Island"	1998	245	72
+"Scott Islands"	"Maggot Island"	2002	456	77
+"Scott Islands"	"Maggot Island"	2006	590	62
+"Scott Islands"	"Maggot Island"	2008	362	36
+"Scott Islands"	"Maggot Island"	2010	286	56
+"Scott Islands"	"Maggot Island"	2013	322	54
+"Scott Islands"	"Sartine Island"	1971	628	163
+"Scott Islands"	"Sartine Island"	1972	616	273
+"Scott Islands"	"Sartine Island"	1977	879	309
+"Scott Islands"	"Sartine Island"	1982	806	409
+"Scott Islands"	"Sartine Island"	1987	600	176
+"Scott Islands"	"Sartine Island"	1992	575	253
+"Scott Islands"	"Sartine Island"	1994	343	62
+"Scott Islands"	"Sartine Island"	1998	262	148
+"Scott Islands"	"Sartine Island"	2002	268	146
+"Scott Islands"	"Sartine Island"	2006	379	178
+"Scott Islands"	"Sartine Island"	2008	264	101
+"Scott Islands"	"Sartine Island"	2010	231	104
+"Scott Islands"	"Sartine Island"	2013	239	140
+"Scott Islands"	"Triangle Island"	1971	550	181
+"Scott Islands"	"Triangle Island"	1972	375	189
+"Scott Islands"	"Triangle Island"	1977	570	140
+"Scott Islands"	"Triangle Island"	1982	376	185
+"Scott Islands"	"Triangle Island"	1987	1057	305
+"Scott Islands"	"Triangle Island"	1992	1603	476
+"Scott Islands"	"Triangle Island"	1994	1626	630
+"Scott Islands"	"Triangle Island"	1998	2540	1221
+"Scott Islands"	"Triangle Island"	2002	2995	2199
+"Scott Islands"	"Triangle Island"	2006	3576	2674
+"Scott Islands"	"Triangle Island"	2008	3645	2550
+"Scott Islands"	"Triangle Island"	2010	4651	3776
+"Scott Islands"	"Triangle Island"	2013	5249	4106
+"Central Mainland Coast"	"Virgin Rocks"	1971	317	NA
+"Central Mainland Coast"	"Virgin Rocks"	1972	205	NA
+"Central Mainland Coast"	"Virgin Rocks"	1977	62	NA
+"Central Mainland Coast"	"Virgin Rocks"	1982	190	NA
+"Central Mainland Coast"	"Virgin Rocks"	1987	229	NA
+"Central Mainland Coast"	"Virgin Rocks"	1992	157	NA
+"Central Mainland Coast"	"Virgin Rocks"	1994	131	NA
+"Central Mainland Coast"	"Virgin Rocks"	1998	168	NA
+"Central Mainland Coast"	"Virgin Rocks"	2002	419	NA
+"Central Mainland Coast"	"Virgin Rocks"	2006	516	55
+"Central Mainland Coast"	"Virgin Rocks"	2008	595	100
+"Central Mainland Coast"	"Virgin Rocks"	2010	533	155
+"Central Mainland Coast"	"Virgin Rocks"	2013	1350	268
+"Central Mainland Coast"	"Pearl Rocks"	1971	100	NA
+"Central Mainland Coast"	"Pearl Rocks"	1972	81	NA
+"Central Mainland Coast"	"Pearl Rocks"	1977	276	NA
+"Central Mainland Coast"	"Pearl Rocks"	1982	23	NA
+"Central Mainland Coast"	"Pearl Rocks"	1987	128	NA
+"Central Mainland Coast"	"Pearl Rocks"	1992	126	NA
+"Central Mainland Coast"	"Pearl Rocks"	1994	98	NA
+"Central Mainland Coast"	"Pearl Rocks"	1998	199	NA
+"Central Mainland Coast"	"Pearl Rocks"	2002	467	NA
+"Central Mainland Coast"	"Pearl Rocks"	2006	449	NA
+"Central Mainland Coast"	"Pearl Rocks"	2008	247	NA
+"Central Mainland Coast"	"Pearl Rocks"	2010	263	NA
+"Central Mainland Coast"	"Pearl Rocks"	2013	414	NA
+"Central Mainland Coast"	"Blenheim"	1977	0	NA
+"Central Mainland Coast"	"Blenheim"	1982	0	NA
+"Central Mainland Coast"	"Blenheim"	1987	0	NA
+"Central Mainland Coast"	"Blenheim"	1992	0	NA
+"Central Mainland Coast"	"Blenheim"	1994	0	NA
+"Central Mainland Coast"	"Blenheim"	1998	0	NA
+"Central Mainland Coast"	"Blenheim"	2008	0	NA
+"Central Mainland Coast"	"Blenheim"	2010	3	NA
+"Central Mainland Coast"	"Blenheim"	2013	42	NA
+"Central Mainland Coast"	"Gosling Rocks"	1971	106	NA
+"Central Mainland Coast"	"Gosling Rocks"	1977	37	NA
+"Central Mainland Coast"	"Gosling Rocks"	1982	179	NA
+"Central Mainland Coast"	"Gosling Rocks"	1987	135	NA
+"Central Mainland Coast"	"Gosling Rocks"	1992	72	NA
+"Central Mainland Coast"	"Gosling Rocks"	1994	192	NA
+"Central Mainland Coast"	"Gosling Rocks"	1998	133	NA
+"Central Mainland Coast"	"Gosling Rocks"	2002	160	NA
+"Central Mainland Coast"	"Gosling Rocks"	2006	257	NA
+"Central Mainland Coast"	"Gosling Rocks"	2008	308	NA
+"Central Mainland Coast"	"Gosling Rocks"	2010	439	NA
+"Central Mainland Coast"	"Gosling Rocks"	2013	384	122
+"Central Mainland Coast"	"McInnes Island"	1971	196	NA
+"Central Mainland Coast"	"McInnes Island"	1977	45	NA
+"Central Mainland Coast"	"McInnes Island"	1982	0	NA
+"Central Mainland Coast"	"McInnes Island"	1987	0	NA
+"Central Mainland Coast"	"McInnes Island"	1992	109	NA
+"Central Mainland Coast"	"McInnes Island"	1994	241	NA
+"Central Mainland Coast"	"McInnes Island"	1998	163	NA
+"Central Mainland Coast"	"McInnes Island"	2002	25	NA
+"Central Mainland Coast"	"McInnes Island"	2008	263	NA
+"Central Mainland Coast"	"McInnes Island"	2010	139	NA
+"Central Mainland Coast"	"McInnes Island"	2013	262	NA
+"Central Mainland Coast"	"Steele Rock"	1977	85	NA
+"Central Mainland Coast"	"Steele Rock"	1982	150	NA
+"Central Mainland Coast"	"Steele Rock"	1987	7	NA
+"Central Mainland Coast"	"Steele Rock"	1992	35	NA
+"Central Mainland Coast"	"Steele Rock"	1994	137	NA
+"Central Mainland Coast"	"Steele Rock"	1998	227	NA
+"Central Mainland Coast"	"Steele Rock"	2002	101	NA
+"Central Mainland Coast"	"Steele Rock"	2006	92	NA
+"Central Mainland Coast"	"Steele Rock"	2008	194	NA
+"Central Mainland Coast"	"Steele Rock"	2010	173	NA
+"Central Mainland Coast"	"Steele Rock"	2013	228	NA
+"North Mainland Coast"	"Isnor Rock"	1971	0	NA
+"North Mainland Coast"	"Isnor Rock"	1977	1	NA
+"North Mainland Coast"	"Isnor Rock"	1982	0	NA
+"North Mainland Coast"	"Isnor Rock"	1987	1	NA
+"North Mainland Coast"	"Isnor Rock"	1992	0	NA
+"North Mainland Coast"	"Isnor Rock"	1994	0	NA
+"North Mainland Coast"	"Isnor Rock"	1998	0	NA
+"North Mainland Coast"	"Isnor Rock"	2002	72	NA
+"North Mainland Coast"	"Isnor Rock"	2006	29	NA
+"North Mainland Coast"	"Isnor Rock"	2008	0	NA
+"North Mainland Coast"	"Isnor Rock"	2010	109	NA
+"North Mainland Coast"	"Isnor Rock"	2013	229	NA
+"Central Mainland Coast"	"Ashdown Island"	1977	0	NA
+"Central Mainland Coast"	"Ashdown Island"	1992	25	NA
+"Central Mainland Coast"	"Ashdown Island"	1998	0	NA
+"Central Mainland Coast"	"Ashdown Island"	2010	17	NA
+"Central Mainland Coast"	"Ashdown Island"	2013	525	NA
+"Central Mainland Coast"	"Airacobra Rock"	2010	30	NA
+"Central Mainland Coast"	"Airacobra Rock"	2013	14	NA
+"Central Mainland Coast"	"Watch Rock"	1971	0	NA
+"Central Mainland Coast"	"Watch Rock"	1972	0	NA
+"Central Mainland Coast"	"Watch Rock"	1977	0	NA
+"Central Mainland Coast"	"Watch Rock"	1982	0	NA
+"Central Mainland Coast"	"Watch Rock"	1987	0	NA
+"Central Mainland Coast"	"Watch Rock"	1992	0	NA
+"Central Mainland Coast"	"Watch Rock"	1994	0	NA
+"Central Mainland Coast"	"Watch Rock"	1998	0	NA
+"Central Mainland Coast"	"Watch Rock"	2002	0	NA
+"Central Mainland Coast"	"Watch Rock"	2006	0	NA
+"Central Mainland Coast"	"Watch Rock"	2008	0	NA
+"Central Mainland Coast"	"Watch Rock"	2010	20	NA
+"Central Mainland Coast"	"Watch Rock"	2013	0	NA
+"North Mainland Coast"	"Goodacre Point"	2010	19	NA
+"North Mainland Coast"	"MacDonald Island"	2010	43	NA
+"North Mainland Coast"	"MacDonald Island"	2013	5	NA
+"North Mainland Coast"	"North Danger Rocks"	1971	148	86
+"North Mainland Coast"	"North Danger Rocks"	1972	347	93
+"North Mainland Coast"	"North Danger Rocks"	1977	230	64
+"North Mainland Coast"	"North Danger Rocks"	1982	288	74
+"North Mainland Coast"	"North Danger Rocks"	1987	339	54
+"North Mainland Coast"	"North Danger Rocks"	1992	301	148
+"North Mainland Coast"	"North Danger Rocks"	1994	309	85
+"North Mainland Coast"	"North Danger Rocks"	1998	583	144
+"North Mainland Coast"	"North Danger Rocks"	2002	592	219
+"North Mainland Coast"	"North Danger Rocks"	2006	1003	403
+"North Mainland Coast"	"North Danger Rocks"	2008	652	216
+"North Mainland Coast"	"North Danger Rocks"	2010	527	272
+"North Mainland Coast"	"North Danger Rocks"	2013	783	374
+"North Mainland Coast"	"Bonilla Island"	1971	29	NA
+"North Mainland Coast"	"Bonilla Island"	1972	158	NA
+"North Mainland Coast"	"Bonilla Island"	1977	333	NA
+"North Mainland Coast"	"Bonilla Island"	1982	219	NA
+"North Mainland Coast"	"Bonilla Island"	1987	19	NA
+"North Mainland Coast"	"Bonilla Island"	1992	265	NA
+"North Mainland Coast"	"Bonilla Island"	1994	272	NA
+"North Mainland Coast"	"Bonilla Island"	1998	303	NA
+"North Mainland Coast"	"Bonilla Island"	2002	215	NA
+"North Mainland Coast"	"Bonilla Island"	2006	375	NA
+"North Mainland Coast"	"Bonilla Island"	2008	282	NA
+"North Mainland Coast"	"Bonilla Island"	2010	508	NA
+"North Mainland Coast"	"Bonilla Island"	2013	392	55
+"North Mainland Coast"	"Warrior Rocks"	1992	416	NA
+"North Mainland Coast"	"Warrior Rocks"	1994	2	NA
+"North Mainland Coast"	"Warrior Rocks"	1998	282	NA
+"North Mainland Coast"	"Warrior Rocks"	2002	588	NA
+"North Mainland Coast"	"Warrior Rocks"	2006	692	NA
+"North Mainland Coast"	"Warrior Rocks"	2008	1114	NA
+"North Mainland Coast"	"Warrior Rocks"	2010	1106	NA
+"North Mainland Coast"	"Warrior Rocks"	2013	1221	NA
+"North Mainland Coast"	"Chearnley Islet"	1977	0	NA
+"North Mainland Coast"	"Chearnley Islet"	1982	0	NA
+"North Mainland Coast"	"Chearnley Islet"	1992	1	NA
+"North Mainland Coast"	"Chearnley Islet"	1994	3	NA
+"North Mainland Coast"	"Chearnley Islet"	1998	0	NA
+"North Mainland Coast"	"Chearnley Islet"	2002	19	NA
+"North Mainland Coast"	"Chearnley Islet"	2006	498	NA
+"North Mainland Coast"	"Chearnley Islet"	2008	244	NA
+"North Mainland Coast"	"Chearnley Islet"	2010	508	NA
+"North Mainland Coast"	"Chearnley Islet"	2013	137	NA
+"Haida Gwaii"	"South Nangwaii Islands"	2008	15	NA
+"Haida Gwaii"	"South Nangwaii Islands"	2010	0	NA
+"Haida Gwaii"	"South Nangwaii Islands"	2013	0	NA
+"Haida Gwaii"	"North Chads Point"	1977	1	NA
+"Haida Gwaii"	"North Chads Point"	1982	0	NA
+"Haida Gwaii"	"North Chads Point"	1987	1	NA
+"Haida Gwaii"	"North Chads Point"	1992	0	NA
+"Haida Gwaii"	"North Chads Point"	1994	2	NA
+"Haida Gwaii"	"North Chads Point"	1998	2	NA
+"Haida Gwaii"	"North Chads Point"	2002	0	NA
+"Haida Gwaii"	"North Chads Point"	2006	24	NA
+"Haida Gwaii"	"North Chads Point"	2008	0	NA
+"Haida Gwaii"	"North Chads Point"	2010	0	NA
+"Haida Gwaii"	"North Chads Point"	2013	0	NA
+"Haida Gwaii"	"Cape St. James Island"	1971	631	337
+"Haida Gwaii"	"Cape St. James Island"	1972	549	272
+"Haida Gwaii"	"Cape St. James Island"	1977	782	303
+"Haida Gwaii"	"Cape St. James Island"	1982	698	404
+"Haida Gwaii"	"Cape St. James Island"	1987	1021	367
+"Haida Gwaii"	"Cape St. James Island"	1992	867	484
+"Haida Gwaii"	"Cape St. James Island"	1994	797	333
+"Haida Gwaii"	"Cape St. James Island"	1998	763	488
+"Haida Gwaii"	"Cape St. James Island"	2002	982	635
+"Haida Gwaii"	"Cape St. James Island"	2006	1094	723
+"Haida Gwaii"	"Cape St. James Island"	2008	811	900
+"Haida Gwaii"	"Cape St. James Island"	2010	1077	846
+"Haida Gwaii"	"Cape St. James Island"	2013	1020	825
+"Haida Gwaii"	"Anthony Island"	1987	44	NA
+"Haida Gwaii"	"Anthony Island"	1992	279	NA
+"Haida Gwaii"	"Anthony Island"	1994	617	NA
+"Haida Gwaii"	"Anthony Island"	1998	359	NA
+"Haida Gwaii"	"Anthony Island"	2002	313	NA
+"Haida Gwaii"	"Anthony Island"	2006	513	NA
+"Haida Gwaii"	"Anthony Island"	2008	473	NA
+"Haida Gwaii"	"Anthony Island"	2010	186	NA
+"Haida Gwaii"	"Anthony Island"	2013	521	NA
+"Haida Gwaii"	"South Tasu Head"	1971	76	NA
+"Haida Gwaii"	"South Tasu Head"	1977	278	NA
+"Haida Gwaii"	"South Tasu Head"	1982	117	NA
+"Haida Gwaii"	"South Tasu Head"	1987	263	NA
+"Haida Gwaii"	"South Tasu Head"	1992	80	NA
+"Haida Gwaii"	"South Tasu Head"	1994	196	NA
+"Haida Gwaii"	"South Tasu Head"	1998	285	NA
+"Haida Gwaii"	"South Tasu Head"	2002	151	NA
+"Haida Gwaii"	"South Tasu Head"	2006	47	NA
+"Haida Gwaii"	"South Tasu Head"	2008	98	NA
+"Haida Gwaii"	"South Tasu Head"	2010	251	NA
+"Haida Gwaii"	"South Tasu Head"	2013	273	NA
+"Haida Gwaii"	"Moresby Islets"	1987	0	NA
+"Haida Gwaii"	"Moresby Islets"	1992	3	NA
+"Haida Gwaii"	"Moresby Islets"	1994	115	NA
+"Haida Gwaii"	"Moresby Islets"	1998	65	NA
+"Haida Gwaii"	"Moresby Islets"	2002	2	NA
+"Haida Gwaii"	"Moresby Islets"	2006	1	NA
+"Haida Gwaii"	"Moresby Islets"	2008	0	NA
+"Haida Gwaii"	"Moresby Islets"	2010	0	NA
+"Haida Gwaii"	"Moresby Islets"	2013	0	NA
+"Haida Gwaii"	"Marble Island"	1971	0	NA
+"Haida Gwaii"	"Marble Island"	1977	0	NA
+"Haida Gwaii"	"Marble Island"	1982	0	NA
+"Haida Gwaii"	"Marble Island"	1987	0	NA
+"Haida Gwaii"	"Marble Island"	1992	0	NA
+"Haida Gwaii"	"Marble Island"	1994	0	NA
+"Haida Gwaii"	"Marble Island"	1998	0	NA
+"Haida Gwaii"	"Marble Island"	2002	0	NA
+"Haida Gwaii"	"Marble Island"	2006	1	NA
+"Haida Gwaii"	"Marble Island"	2008	0	NA
+"Haida Gwaii"	"Marble Island"	2010	0	NA
+"Haida Gwaii"	"Marble Island"	2013	67	NA
+"Haida Gwaii"	"Cone Head"	1987	0	NA
+"Haida Gwaii"	"Cone Head"	1992	70	NA
+"Haida Gwaii"	"Cone Head"	1994	21	NA
+"Haida Gwaii"	"Cone Head"	1998	1	NA
+"Haida Gwaii"	"Cone Head"	2002	131	NA
+"Haida Gwaii"	"Cone Head"	2006	27	NA
+"Haida Gwaii"	"Cone Head"	2008	85	NA
+"Haida Gwaii"	"Cone Head"	2010	97	NA
+"Haida Gwaii"	"Cone Head"	2013	220	NA
+"North Mainland Coast"	"Joseph Island"	1971	0	NA
+"North Mainland Coast"	"Joseph Island"	1982	0	NA
+"North Mainland Coast"	"Joseph Island"	1987	0	NA
+"North Mainland Coast"	"Joseph Island"	1998	0	NA
+"North Mainland Coast"	"Joseph Island"	2002	2	NA
+"North Mainland Coast"	"Joseph Island"	2006	3	NA
+"North Mainland Coast"	"Joseph Island"	2008	0	NA
+"North Mainland Coast"	"Joseph Island"	2010	128	NA
+"North Mainland Coast"	"Joseph Island"	2013	345	NA
+"Haida Gwaii"	"Joseph Rocks"	1971	408	NA
+"Haida Gwaii"	"Joseph Rocks"	1977	399	NA
+"Haida Gwaii"	"Joseph Rocks"	1982	366	NA
+"Haida Gwaii"	"Joseph Rocks"	1987	309	NA
+"Haida Gwaii"	"Joseph Rocks"	1992	327	NA
+"Haida Gwaii"	"Joseph Rocks"	1994	397	NA
+"Haida Gwaii"	"Joseph Rocks"	1998	601	NA
+"Haida Gwaii"	"Joseph Rocks"	2002	696	NA
+"Haida Gwaii"	"Joseph Rocks"	2006	770	NA
+"Haida Gwaii"	"Joseph Rocks"	2010	339	NA
+"Haida Gwaii"	"Joseph Rocks"	2013	249	NA
+"Haida Gwaii"	"Rose Spit"	1971	1	NA
+"Haida Gwaii"	"Rose Spit"	1998	0	NA
+"Haida Gwaii"	"Rose Spit"	2006	30	NA
+"Haida Gwaii"	"Rose Spit"	2008	132	NA
+"Haida Gwaii"	"Rose Spit"	2010	57	NA
+"Haida Gwaii"	"Rose Spit"	2013	50	NA
+"Haida Gwaii"	"Langara Island"	1971	6	NA
+"Haida Gwaii"	"Langara Island"	1977	0	NA
+"Haida Gwaii"	"Langara Island"	1982	3	NA
+"Haida Gwaii"	"Langara Island"	1987	3	NA
+"Haida Gwaii"	"Langara Island"	1994	0	NA
+"Haida Gwaii"	"Langara Island"	1998	217	NA
+"Haida Gwaii"	"Langara Island"	2002	3	NA
+"Haida Gwaii"	"Langara Island"	2006	484	NA
+"Haida Gwaii"	"Langara Island"	2010	98	NA
+"Haida Gwaii"	"Langara Island"	2013	337	NA
+"Haida Gwaii"	"Reef Island"	1971	207	NA
+"Haida Gwaii"	"Reef Island"	1972	105	NA
+"Haida Gwaii"	"Reef Island"	1977	88	NA
+"Haida Gwaii"	"Reef Island"	1982	36	NA
+"Haida Gwaii"	"Reef Island"	1987	482	NA
+"Haida Gwaii"	"Reef Island"	1992	489	NA
+"Haida Gwaii"	"Reef Island"	1994	538	NA
+"Haida Gwaii"	"Reef Island"	1998	216	NA
+"Haida Gwaii"	"Reef Island"	2002	370	NA
+"Haida Gwaii"	"Reef Island"	2006	253	NA
+"Haida Gwaii"	"Reef Island"	2008	294	NA
+"Haida Gwaii"	"Reef Island"	2010	316	NA
+"Haida Gwaii"	"Reef Island"	2013	289	NA
+"Haida Gwaii"	"Skedans Islands"	1971	0	NA
+"Haida Gwaii"	"Skedans Islands"	1977	0	NA
+"Haida Gwaii"	"Skedans Islands"	1982	45	NA
+"Haida Gwaii"	"Skedans Islands"	1987	0	NA
+"Haida Gwaii"	"Skedans Islands"	1992	0	NA
+"Haida Gwaii"	"Skedans Islands"	1994	0	NA
+"Haida Gwaii"	"Skedans Islands"	1998	0	NA
+"Haida Gwaii"	"Skedans Islands"	2002	0	NA
+"Haida Gwaii"	"Skedans Islands"	2006	0	NA
+"Haida Gwaii"	"Skedans Islands"	2008	0	NA
+"Haida Gwaii"	"Skedans Islands"	2010	0	NA
+"Haida Gwaii"	"Skedans Islands"	2013	0	NA
+"Haida Gwaii"	"Tatsung Rock"	1971	0	NA
+"Haida Gwaii"	"Tatsung Rock"	1972	10	NA
+"Haida Gwaii"	"Tatsung Rock"	1977	0	NA
+"Haida Gwaii"	"Tatsung Rock"	1982	0	NA
+"Haida Gwaii"	"Tatsung Rock"	1987	0	NA
+"Haida Gwaii"	"Tatsung Rock"	1992	0	NA
+"Haida Gwaii"	"Tatsung Rock"	1994	0	NA
+"Haida Gwaii"	"Tatsung Rock"	2008	24	NA
+"Haida Gwaii"	"Tatsung Rock"	2013	77	NA
+"Haida Gwaii"	"Joyce Rocks"	2008	53	NA
+"Haida Gwaii"	"Joyce Rocks"	2013	165	NA
+"Haida Gwaii"	"Garcin Rocks"	1971	0	0
+"Haida Gwaii"	"Garcin Rocks"	1972	0	0
+"Haida Gwaii"	"Garcin Rocks"	1977	0	0
+"Haida Gwaii"	"Garcin Rocks"	1982	0	0
+"Haida Gwaii"	"Garcin Rocks"	1987	0	0
+"Haida Gwaii"	"Garcin Rocks"	1992	0	0
+"Haida Gwaii"	"Garcin Rocks"	1994	0	0
+"Haida Gwaii"	"Garcin Rocks"	1998	0	0
+"Haida Gwaii"	"Garcin Rocks"	2002	329	NA
+"Haida Gwaii"	"Garcin Rocks"	2006	261	NA
+"Haida Gwaii"	"Garcin Rocks"	2008	305	104
+"Haida Gwaii"	"Garcin Rocks"	2010	565	217
+"Haida Gwaii"	"Garcin Rocks"	2013	594	315
+"Queen Charlotte Strait"	"Ashby Point"	1977	4	NA
+"Queen Charlotte Strait"	"Ashby Point"	1982	1	NA
+"Queen Charlotte Strait"	"Ashby Point"	1987	210	NA
+"Queen Charlotte Strait"	"Ashby Point"	1992	3	NA
+"Queen Charlotte Strait"	"Ashby Point"	1994	226	NA
+"Queen Charlotte Strait"	"Ashby Point"	1998	225	NA
+"Queen Charlotte Strait"	"Ashby Point"	2002	519	NA
+"Queen Charlotte Strait"	"Ashby Point"	2006	786	NA
+"Queen Charlotte Strait"	"Ashby Point"	2008	541	NA
+"Queen Charlotte Strait"	"Ashby Point"	2010	479	NA
+"Queen Charlotte Strait"	"Ashby Point"	2013	632	NA
+"Queen Charlotte Strait"	"Bright Island"	1971	0	NA
+"Queen Charlotte Strait"	"Bright Island"	1977	0	NA
+"Queen Charlotte Strait"	"Bright Island"	1982	0	NA
+"Queen Charlotte Strait"	"Bright Island"	1987	0	NA
+"Queen Charlotte Strait"	"Bright Island"	2002	47	NA
+"Queen Charlotte Strait"	"Bright Island"	2006	2	NA
+"Queen Charlotte Strait"	"Bright Island"	2008	0	NA
+"Queen Charlotte Strait"	"Bright Island"	2010	461	NA
+"Queen Charlotte Strait"	"Bright Island"	2013	806	NA
+"Queen Charlotte Strait"	"Millar Group"	1971	0	NA
+"Queen Charlotte Strait"	"Millar Group"	1972	0	NA
+"Queen Charlotte Strait"	"Millar Group"	1977	0	NA
+"Queen Charlotte Strait"	"Millar Group"	1982	0	NA
+"Queen Charlotte Strait"	"Millar Group"	1987	0	NA
+"Queen Charlotte Strait"	"Millar Group"	1992	0	NA
+"Queen Charlotte Strait"	"Millar Group"	1994	0	NA
+"Queen Charlotte Strait"	"Millar Group"	1998	0	NA
+"Queen Charlotte Strait"	"Millar Group"	2002	1	NA
+"Queen Charlotte Strait"	"Millar Group"	2006	2	NA
+"Queen Charlotte Strait"	"Millar Group"	2008	151	NA
+"Queen Charlotte Strait"	"Millar Group"	2010	140	NA
+"Queen Charlotte Strait"	"Millar Group"	2013	208	NA
+"Queen Charlotte Strait"	"Eden Island"	1971	0	NA
+"Queen Charlotte Strait"	"Eden Island"	1972	0	NA
+"Queen Charlotte Strait"	"Eden Island"	1977	0	NA
+"Queen Charlotte Strait"	"Eden Island"	1982	0	NA
+"Queen Charlotte Strait"	"Eden Island"	1987	0	NA
+"Queen Charlotte Strait"	"Eden Island"	1992	0	NA
+"Queen Charlotte Strait"	"Eden Island"	1994	0	NA
+"Queen Charlotte Strait"	"Eden Island"	1998	0	NA
+"Queen Charlotte Strait"	"Eden Island"	2013	45	NA
+"West Coast Vancouver Island"	"Carmanah Point"	1971	0	NA
+"West Coast Vancouver Island"	"Carmanah Point"	1977	181	NA
+"West Coast Vancouver Island"	"Carmanah Point"	1982	170	NA
+"West Coast Vancouver Island"	"Carmanah Point"	1987	146	NA
+"West Coast Vancouver Island"	"Carmanah Point"	1992	103	NA
+"West Coast Vancouver Island"	"Carmanah Point"	1994	150	NA
+"West Coast Vancouver Island"	"Carmanah Point"	1998	255	NA
+"West Coast Vancouver Island"	"Carmanah Point"	2002	237	NA
+"West Coast Vancouver Island"	"Carmanah Point"	2006	247	NA
+"West Coast Vancouver Island"	"Carmanah Point"	2008	162	NA
+"West Coast Vancouver Island"	"Carmanah Point"	2010	514	NA
+"West Coast Vancouver Island"	"Carmanah Point"	2013	1209	NA
+"West Coast Vancouver Island"	"Pachena Point"	1971	0	NA
+"West Coast Vancouver Island"	"Pachena Point"	1972	0	NA
+"West Coast Vancouver Island"	"Pachena Point"	1977	0	NA
+"West Coast Vancouver Island"	"Pachena Point"	1982	0	NA
+"West Coast Vancouver Island"	"Pachena Point"	1987	0	NA
+"West Coast Vancouver Island"	"Pachena Point"	1992	0	NA
+"West Coast Vancouver Island"	"Pachena Point"	1994	0	NA
+"West Coast Vancouver Island"	"Pachena Point"	1998	1	NA
+"West Coast Vancouver Island"	"Pachena Point"	2002	0	NA
+"West Coast Vancouver Island"	"Pachena Point"	2006	44	NA
+"West Coast Vancouver Island"	"Pachena Point"	2008	53	NA
+"West Coast Vancouver Island"	"Pachena Point"	2010	166	NA
+"West Coast Vancouver Island"	"Pachena Point"	2013	157	NA
+"West Coast Vancouver Island"	"Wouwer Island"	1971	0	NA
+"West Coast Vancouver Island"	"Wouwer Island"	1972	0	NA
+"West Coast Vancouver Island"	"Wouwer Island"	1977	0	NA
+"West Coast Vancouver Island"	"Wouwer Island"	1982	0	NA
+"West Coast Vancouver Island"	"Wouwer Island"	1987	0	NA
+"West Coast Vancouver Island"	"Wouwer Island"	1992	0	NA
+"West Coast Vancouver Island"	"Wouwer Island"	1994	0	NA
+"West Coast Vancouver Island"	"Wouwer Island"	1998	0	NA
+"West Coast Vancouver Island"	"Wouwer Island"	2002	31	NA
+"West Coast Vancouver Island"	"Wouwer Island"	2006	4	NA
+"West Coast Vancouver Island"	"Wouwer Island"	2008	48	NA
+"West Coast Vancouver Island"	"Wouwer Island"	2010	89	NA
+"West Coast Vancouver Island"	"Wouwer Island"	2013	104	NA
+"West Coast Vancouver Island"	"Mara Rock"	1971	0	NA
+"West Coast Vancouver Island"	"Mara Rock"	1977	0	NA
+"West Coast Vancouver Island"	"Mara Rock"	1982	3	NA
+"West Coast Vancouver Island"	"Mara Rock"	1987	0	NA
+"West Coast Vancouver Island"	"Mara Rock"	1992	0	NA
+"West Coast Vancouver Island"	"Mara Rock"	1994	41	NA
+"West Coast Vancouver Island"	"Mara Rock"	1998	87	NA
+"West Coast Vancouver Island"	"Mara Rock"	2002	296	NA
+"West Coast Vancouver Island"	"Mara Rock"	2006	264	NA
+"West Coast Vancouver Island"	"Mara Rock"	2008	376	NA
+"West Coast Vancouver Island"	"Mara Rock"	2010	514	NA
+"West Coast Vancouver Island"	"Mara Rock"	2013	332	NA
+"West Coast Vancouver Island"	"Starlight Reef"	1971	0	NA
+"West Coast Vancouver Island"	"Starlight Reef"	1972	0	NA
+"West Coast Vancouver Island"	"Starlight Reef"	1977	0	NA
+"West Coast Vancouver Island"	"Starlight Reef"	1982	0	NA
+"West Coast Vancouver Island"	"Starlight Reef"	1987	0	NA
+"West Coast Vancouver Island"	"Starlight Reef"	1992	0	NA
+"West Coast Vancouver Island"	"Starlight Reef"	1994	0	NA
+"West Coast Vancouver Island"	"Starlight Reef"	1998	0	NA
+"West Coast Vancouver Island"	"Starlight Reef"	2002	0	NA
+"West Coast Vancouver Island"	"Starlight Reef"	2006	0	NA
+"West Coast Vancouver Island"	"Starlight Reef"	2008	0	NA
+"West Coast Vancouver Island"	"Starlight Reef"	2010	25	NA
+"West Coast Vancouver Island"	"Starlight Reef"	2013	155	NA

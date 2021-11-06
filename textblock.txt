@@ -1,1 +1,5 @@
-<WILLUPDATE>
+Welcome to this {shiny} application! To begin, choose a region from the options 
+below, select any number of available sites, and specify whether you want to display Adult 
+or Pup data. Use the figures, values, tables, and map to 
+explore the data. When you're ready, click on the buttons at the bottom of this panel to 
+download the data or the current figure.
